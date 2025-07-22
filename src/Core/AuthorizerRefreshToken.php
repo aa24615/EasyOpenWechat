@@ -32,7 +32,7 @@ class AuthorizerRefreshToken implements AuthorizerRefreshTokenContract
      *  cache key prefix
      */
 
-    const AUTHORIZER_REFRESH_TOKEN_CACHE_PREFIX = 'easyopenwechat.core.refresh_token.';
+    const AUTHORIZER_REFRESH_TOKEN_CACHE_PREFIX = 'open_platform.refresh_token.';
 
     public function __construct(Cache $cache = null)
     {

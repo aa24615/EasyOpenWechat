@@ -31,7 +31,7 @@ class ComponentAccessToken
      * cache key prefix
      *
      */
-    const COMPONENT_ACCESS_TOKEN_CACHE_PREFIX = 'easyopenwechat.core.component_access_token.';
+    const COMPONENT_ACCESS_TOKEN_CACHE_PREFIX = 'open_platform.component_access_token.';
 
     /**
      * component app id

@@ -57,7 +57,7 @@ class AuthorizerAccessToken extends AccessToken
      *
      * @var string
      */
-    protected $prefix = 'easyopenwechat.core.authorizer_access_token.';
+    protected $prefix = 'open_platform.authorizer_access_token.';
 
 
     public function __construct($componentAppId, $authorizerAppId = '', AuthorizerRefreshTokenContract $authorizerRefreshToken, ComponentAccessToken $componentAccessToken, Cache $cache = null)

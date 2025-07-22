@@ -26,7 +26,7 @@ class Authorization
      */
     const API_QUERY_AUTH = 'https://api.weixin.qq.com/cgi-bin/component/api_query_auth?component_access_token=';
 
-    const AUTHORIZATION_INFO_CACHE_PREFIX = 'easyopenwechat.core.authorization_info.';
+    const AUTHORIZATION_INFO_CACHE_PREFIX = 'open_platform.authorization_info.';
 
     /**
      * component app id

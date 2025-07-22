@@ -41,7 +41,7 @@ class ComponentVerifyTicket
     /**
      * cache key prefix;
      */
-    const COMPONENT_VERIFY_TICKET_CACHE_PREFIX = 'easyopenwechat.core.verify_ticket.';
+    const COMPONENT_VERIFY_TICKET_CACHE_PREFIX = 'open_platform.verify_ticket.';
 
     public function __construct($componentAppId, Cache $cache = null)
     {
