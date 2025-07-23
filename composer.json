@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "require": {
-    "overtrue/wechat": "^3.0"
+    "zyan/overtrue_wechat": "^3.7"
   },
   "autoload": {
     "psr-4": {
